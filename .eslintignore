@@ -1,0 +1,10 @@
+.github
+.husky
+.next
+.vscode
+node_modules
+public
+lib/bundle
+.prisma
+tailwind.config.ts
+postcss.config.js
